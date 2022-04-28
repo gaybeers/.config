@@ -1,2 +1,2 @@
 #!bin/sh
-feh --no-fehbg -bg-scale '$HOME/.config/lain3.png'
+feh --bg-scale '$HOME/.config/lain3.png'
