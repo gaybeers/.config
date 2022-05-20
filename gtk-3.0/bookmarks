@@ -1,0 +1,2 @@
+smb://192.168.0.115/share/ samba share
+smb://192.168.0.115/bulk-share/ samba bulk share
